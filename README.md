@@ -105,9 +105,11 @@ This short story explores the 2024 survey paper by Ye et al., which analyzes how
 
 ## 📌 How to Reproduce or Extend
 
+If you have come across relevant resources, feel free to open an issue or submit a pull request.
+
 You’re welcome to clone this repo and:
 - Add your own time series foundation model experiment
-- Extend with benchmarking using datasets in `/data`
+- Extend with benchmarking using datasets adding `/data` to the repository
 - Replace illustrations with your own
 
 ```bash
