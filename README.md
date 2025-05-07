@@ -95,7 +95,7 @@ This short story explores the 2024 survey paper by Ye et al., which analyzes how
 
 ## 🙌 Acknowledgments
 
-- Special thanks to ** Prof. Vijay Eranti / Samarth Sharma ** for the guidance  
+- Special thanks to **Prof. Vijay Eranti / Samarth Sharma** for the guidance  
 - Visual assets created with [DALL·E + PPT]  
 - Inspiration and tools sourced from:
   - [Awesome TimeSeries LLM FM](https://github.com/start2020/Awesome-TimeSeries-LLM-FM)
