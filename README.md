@@ -86,9 +86,9 @@ This short story explores the 2024 survey paper by Ye et al., which analyzes how
 
 | Artifact | Link |
 |---------|------|
-| 📖 Medium Article | [Read the article](https://medium.com/your-article-url-here) |
+| 📖 Medium Article | [Read the article](https://medium.com/@soumyabharathi.vetukuri/structured-intelligence-a-comprehensive-survey-of-foundation-models-and-research-outlook-3d85ce6469b7) |
 | 🎥 Video Demo | [Watch on YouTube](https://youtu.be/GQZ-6vpdrr8) |
-| 🖼️ Google Slides | [Presentation Deck](https://docs.google.com/presentation/d/1Jy48ikVGeKdtZZ85QtMONtVPKokTlLRMTxbHDKN2H4s/edit) |
+| 🖼️ Google Slides | [Presentation Deck](https://www.slideshare.net/secret/2viGFmeiIFm7vU) |
 | 📄 Source Paper | [Ye et al., 2024](https://arxiv.org/pdf/2405.02358) |
 
 ---
