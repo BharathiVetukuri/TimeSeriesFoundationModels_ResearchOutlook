@@ -8,9 +8,9 @@ Representation with Large Language Model - Ye et al., 2024
 
 ---
 
-## 🧠 Project Summary
+## Project Summary
 
-Foundation models have revolutionized NLP and vision. This work explores their emerging applications in **time series analysis**, comparing:
+Foundation models have revolutionized NLP and vision. This work explores their emerging applications in **Time Series Analysis**, comparing:
 
 - Foundation models trained **from scratch** (e.g., TimeGPT, TimesFM)
 - Adapted **LLMs** using embedding-visible and text-visible paradigms
