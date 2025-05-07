@@ -1,4 +1,4 @@
-# 📊 Structured Intelligence: Foundation Models for Time Series
+# Structured Intelligence: Foundation Models for Time Series
 
 This repository contains the complete submission for the **Short Story Assignment** based on the survey paper:
 
