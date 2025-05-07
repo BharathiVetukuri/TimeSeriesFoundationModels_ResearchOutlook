@@ -1,42 +1,121 @@
-# Structured Intelligence: Foundation Models for Time Series
+# 🔍 Structured Intelligence: A Comprehensive Survey of Foundation Models for Time Series
 
-This repository contains the complete submission for the **Short Story Assignment** based on the survey paper:
-
-> A Survey of Time Series Foundation Models: Generalizing Time Series
-Representation with Large Language Model - Ye et al., 2024 
-> [arXiv:2405.02358](https://arxiv.org/pdf/2405.02358)
-
----
-
-## Project Summary
-
-Foundation models have revolutionized NLP and vision. This work explores their emerging applications in **Time Series Analysis**, comparing:
-
-- Foundation models trained **from scratch** (e.g., TimeGPT, TimesFM)
-- Adapted **LLMs** using embedding-visible and text-visible paradigms
-- Evaluated under the **3E framework**: Effectiveness, Efficiency, Explainability
+**Author:** [Your Name]  
+**Course:** [Course Name]  
+**Assignment:** Short Story – Foundation Model Review  
+**Paper Reviewed:** [Ye et al., 2024 - A Survey of Time Series Foundation Models](https://arxiv.org/pdf/2405.02358)
 
 ---
 
-## Deliverables
+## 🧠 What’s This About?
+
+> "If time is money, then time series data is your bank statement — structured, regular, and full of patterns."
+
+Foundation models like GPT have transformed text and vision tasks. But can these general-purpose AI models also handle **structured time-dependent data** like ECG signals, stock charts, or energy usage?
+
+This short story explores the 2024 survey paper by Ye et al., which analyzes how foundation models are being applied to **time series data** — one of the most underexplored yet ubiquitous data modalities.
+
+---
+
+## 🎯 Key Takeaways from the Survey
+
+### 🏗️ Two Main Paths:
+1. **Pretrained Foundation Models for Time Series**  
+   - e.g., **TimeGPT**, **TimesFM**, **GTT**  
+   - Trained from scratch on large time series corpora  
+   - Face limitations due to lack of large-scale datasets
+
+2. **Adapted LLMs for Time Series Tasks**  
+   - LLMs (e.g., GPT-2, GPT-3.5) fine-tuned or prompted  
+   - **Embedding-visible** or **Text-visible** paradigms  
+   - Tools: **TimeLLM**, **PromptCast**, **LLMF**, **LLM-Mob**
+
+---
+
+### 🔁 Evaluated via the 3E Framework:
+| Effectiveness | Efficiency | Explainability |
+|---------------|------------|----------------|
+| Accuracy across tasks (forecasting, classification, anomaly detection) | Training/inference costs, tuning strategy | Can humans understand and trust predictions? |
+
+---
+
+### 🧪 Time Series Tasks Handled:
+- **Classification**
+- **Forecasting**
+- **Imputation**
+- **Anomaly Detection**
+
+---
+
+### 🧰 Techniques & Tools:
+- **Data Augmentation:** jittering, cropping, patching
+- **Architectures:** Transformer (Encoder/Decoder/Hybrid)
+- **Tuning Strategies:** Full Fine-Tuning, LoRA, Adapters, Prompt Tuning
+
+---
+
+### 🌍 Real-World Domains:
+- **Finance** (TDML, CIGN): Stock prediction + metadata
+- **Healthcare** (METS, LLMF): ECG + Clinical reports
+- **Traffic** (LLMST, AuxMobLCast): Human mobility patterns
+- **Energy** (UMEF): Load forecasting with prompt-enhanced inputs
+
+---
+
+### ⚠️ Research Gaps:
+- Lack of ImageNet-scale time series datasets
+- Weak cross-domain generalization
+- Limited multimodal modeling (text + time + graph)
+- Explainability remains immature in embedding-visible LLMs
+
+---
+
+## 📦 Repository Contents
+
+| Folder/File | Description |
+|-------------|-------------|
+| `README.md` | This file – detailed overview |
+| `slides/`   | Final presentation (.pdf or .pptx) |
+| `images/`   | All illustrations and diagrams used |
+| `video_link.txt` | YouTube walkthrough |
+| `medium_link.txt` | Medium article link |
+
+---
+
+## 🔗 Submission Artifacts
 
 | Artifact | Link |
 |---------|------|
-| 📖 Medium Article | [Read on Medium](https://medium.com/your-article-link-here) |
-| 🎥 Presentation Video | [Watch on YouTube](https://youtu.be/GQZ-6vpdrr8) |
-| 📽️ Slide Deck | [Google Slides](https://docs.google.com/presentation/d/1Jy48ikVGeKdtZZ85QtMONtVPKokTlLRMTxbHDKN2H4s/edit#slide=id.p) |
-| 📄 Survey Paper | [arXiv:2405.02358](https://arxiv.org/pdf/2405.02358) |
-| 📂 All Supporting Images | `/images` folder (includes illustrations used in Medium & slides) |
-| 🧾 PDF Slides (Optional Export) | [Add if you generated one] |
+| 📖 Medium Article | [Read the article](https://medium.com/your-article-url-here) |
+| 🎥 Video Demo | [Watch on YouTube](https://youtu.be/GQZ-6vpdrr8) |
+| 🖼️ Google Slides | [Presentation Deck](https://docs.google.com/presentation/d/1Jy48ikVGeKdtZZ85QtMONtVPKokTlLRMTxbHDKN2H4s/edit) |
+| 📄 Source Paper | [Ye et al., 2024](https://arxiv.org/pdf/2405.02358) |
 
 ---
 
-## Folder Structure
+## 🧾 Citation
+
+> Ye, Jiexia, et al. "A Survey of Time Series Foundation Models." arXiv preprint arXiv:2405.02358 (2024).  
+> [arxiv.org/abs/2405.02358](https://arxiv.org/abs/2405.02358)
+
+---
+
+## 🙌 Acknowledgments
+
+- Special thanks to [Course Instructor / TA Name] for the guidance  
+- Visual assets created with [DALL·E + PPT]  
+- Inspiration and tools sourced from:
+  - [Awesome TimeSeries LLM FM](https://github.com/start2020/Awesome-TimeSeries-LLM-FM)
+  - [Treasure of Transformers](https://github.com/ashishpatel26/Treasure-of-Transformers)
+
+---
+
+## 📌 How to Reproduce or Extend
+
+You’re welcome to clone this repo and:
+- Add your own time series foundation model experiment
+- Extend with benchmarking using datasets in `/data`
+- Replace illustrations with your own
 
 ```bash
-.
-├── README.md
-├── slides/                         # .pdf or .pptx version of deck
-├── images/                         # All visuals generated (diagrams, charts, etc.)
-├── video_link.txt                  # YouTube video URL
-└── medium_link.txt                # Medium article URL
+git clone https://github.com/yourusername/time-series-foundation-models-review.git
