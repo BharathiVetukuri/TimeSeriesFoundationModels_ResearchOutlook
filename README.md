@@ -12,7 +12,7 @@
 |---------|------|
 | 📖 Medium Article | [Read the article](https://medium.com/@soumyabharathi.vetukuri/structured-intelligence-a-comprehensive-survey-of-foundation-models-and-research-outlook-3d85ce6469b7) |
 | 🎥 Video Demo | [Watch on YouTube](https://youtu.be/GQZ-6vpdrr8) |
-| 🖼️ Google Slides | [Presentation Deck](https://www.slideshare.net/secret/2viGFmeiIFm7vU) |
+| 🖼️ Slide Deck | [Presentation Deck](https://www.slideshare.net/secret/2viGFmeiIFm7vU) |
 | 📄 Source Paper | [Ye et al., 2024](https://arxiv.org/pdf/2405.02358) |
 
 ---
