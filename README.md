@@ -2,7 +2,8 @@
 
 This repository contains the complete submission for the **Short Story Assignment** based on the survey paper:
 
-> **Ye et al., 2024 — A Survey of Time Series Foundation Models**  
+> **Ye et al., 2024 — A Survey of Time Series Foundation Models: Generalizing Time Series
+Representation with Large Language Model**  
 > [arXiv:2405.02358](https://arxiv.org/pdf/2405.02358)
 
 ---
