@@ -15,6 +15,8 @@
 | 🖼️ Google Slides | [Presentation Deck](https://www.slideshare.net/secret/2viGFmeiIFm7vU) |
 | 📄 Source Paper | [Ye et al., 2024](https://arxiv.org/pdf/2405.02358) |
 
+[![MediumArticle](https://img.youtube.com/vi/GQZ-6vpdrr8/0.jpg)](https://www.youtube.com/watch?v=GQZ-6vpdrr8)
+
 ---
 
 ## 🧠 What’s This About?
