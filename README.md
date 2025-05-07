@@ -1,9 +1,19 @@
 # 🔍 Structured Intelligence: A Comprehensive Survey of Foundation Models for Time Series
 
-**Author:** [Your Name]  
-**Course:** [Course Name]  
+**Author:** Soumya Bharathi Vetukuri, 016668964  
+**Course:** CMPE-258 Deep Learning 
 **Assignment:** Short Story – Foundation Model Review  
 **Paper Reviewed:** [Ye et al., 2024 - A Survey of Time Series Foundation Models](https://arxiv.org/pdf/2405.02358)
+
+---
+## 🔗 Submission Artifacts
+
+| Artifact | Link |
+|---------|------|
+| 📖 Medium Article | [Read the article](https://medium.com/@soumyabharathi.vetukuri/structured-intelligence-a-comprehensive-survey-of-foundation-models-and-research-outlook-3d85ce6469b7) |
+| 🎥 Video Demo | [Watch on YouTube](https://youtu.be/GQZ-6vpdrr8) |
+| 🖼️ Google Slides | [Presentation Deck](https://www.slideshare.net/secret/2viGFmeiIFm7vU) |
+| 📄 Source Paper | [Ye et al., 2024](https://arxiv.org/pdf/2405.02358) |
 
 ---
 
@@ -70,28 +80,6 @@ This short story explores the 2024 survey paper by Ye et al., which analyzes how
 
 ---
 
-## 📦 Repository Contents
-
-| Folder/File | Description |
-|-------------|-------------|
-| `README.md` | This file – detailed overview |
-| `slides/`   | Final presentation (.pdf or .pptx) |
-| `images/`   | All illustrations and diagrams used |
-| `video_link.txt` | YouTube walkthrough |
-| `medium_link.txt` | Medium article link |
-
----
-
-## 🔗 Submission Artifacts
-
-| Artifact | Link |
-|---------|------|
-| 📖 Medium Article | [Read the article](https://medium.com/@soumyabharathi.vetukuri/structured-intelligence-a-comprehensive-survey-of-foundation-models-and-research-outlook-3d85ce6469b7) |
-| 🎥 Video Demo | [Watch on YouTube](https://youtu.be/GQZ-6vpdrr8) |
-| 🖼️ Google Slides | [Presentation Deck](https://www.slideshare.net/secret/2viGFmeiIFm7vU) |
-| 📄 Source Paper | [Ye et al., 2024](https://arxiv.org/pdf/2405.02358) |
-
----
 
 ## 🧾 Citation
 
@@ -102,7 +90,7 @@ This short story explores the 2024 survey paper by Ye et al., which analyzes how
 
 ## 🙌 Acknowledgments
 
-- Special thanks to [Course Instructor / TA Name] for the guidance  
+- Special thanks to [Prof. Vijay Eranti / Samarth Sharma] for the guidance  
 - Visual assets created with [DALL·E + PPT]  
 - Inspiration and tools sourced from:
   - [Awesome TimeSeries LLM FM](https://github.com/start2020/Awesome-TimeSeries-LLM-FM)
