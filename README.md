@@ -1,7 +1,6 @@
 # 🔍 Structured Intelligence: A Comprehensive Survey of Foundation Models for Time Series
 
 **Author:** Soumya Bharathi Vetukuri, 016668964  
-**Course:** CMPE-258 Deep Learning 
 
 **Paper Reviewed:** [Ye et al., 2024 - A Survey of Time Series Foundation Models](https://arxiv.org/pdf/2405.02358)
 
