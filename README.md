@@ -18,7 +18,7 @@ Foundation models have revolutionized NLP and vision. This work explores their e
 
 ---
 
-## ✅ Deliverables
+## Deliverables
 
 | Artifact | Link |
 |---------|------|
@@ -31,7 +31,7 @@ Foundation models have revolutionized NLP and vision. This work explores their e
 
 ---
 
-## 🗂️ Folder Structure
+## Folder Structure
 
 ```bash
 .
