@@ -1,18 +1,18 @@
-# 🔍 Structured Intelligence: A Comprehensive Survey of Foundation Models for Time Series
+# Structured Intelligence: A Comprehensive Survey of Foundation Models for Time Series
 
 **Author:** Soumya Bharathi Vetukuri, 016668964  
 
 **Paper Reviewed:** [Ye et al., 2024 - A Survey of Time Series Foundation Models](https://arxiv.org/pdf/2405.02358)
 
 ---
-## 🔗 Submission Artifacts
+## Submission Artifacts
 
 | Artifact | Link |
 |---------|------|
-| 📖 Medium Article | [Read the article](https://medium.com/@soumyabharathi.vetukuri/structured-intelligence-a-comprehensive-survey-of-foundation-models-and-research-outlook-3d85ce6469b7) |
-| 🎥 Video Demo | [Watch on YouTube](https://youtu.be/GQZ-6vpdrr8) |
-| 🖼️ Slide Deck | [Presentation Deck](https://www.slideshare.net/secret/2viGFmeiIFm7vU) |
-| 📄 Source Paper | [Ye et al., 2024](https://arxiv.org/pdf/2405.02358) |
+| Medium Article | [Read the article](https://medium.com/@soumyabharathi.vetukuri/structured-intelligence-a-comprehensive-survey-of-foundation-models-and-research-outlook-3d85ce6469b7) |
+| Video Demo | [Watch on YouTube](https://youtu.be/GQZ-6vpdrr8) |
+| Slide Deck | [Presentation Deck](https://www.slideshare.net/secret/2viGFmeiIFm7vU) |
+| Source Paper | [Ye et al., 2024](https://arxiv.org/pdf/2405.02358) |
 
 ---
 ### Click here to Watch Youtube Video:
@@ -21,7 +21,7 @@
 
 ---
 
-## 🧠 What’s This About?
+## What’s This About?
 
 > "If time is money, then time series data is your bank statement — structured, regular, and full of patterns."
 
@@ -31,9 +31,9 @@ This short story explores the 2024 survey paper by Ye et al., which analyzes how
 
 ---
 
-## 🎯 Key Takeaways from the Survey
+## Key Takeaways from the Survey
 
-### 🏗️ Two Main Paths:
+### Two Main Paths:
 1. **Pretrained Foundation Models for Time Series**  
    - e.g., **TimeGPT**, **TimesFM**, **GTT**  
    - Trained from scratch on large time series corpora  
@@ -46,14 +46,14 @@ This short story explores the 2024 survey paper by Ye et al., which analyzes how
 
 ---
 
-### 🔁 Evaluated via the 3E Framework:
+### Evaluated via the 3E Framework:
 | Effectiveness | Efficiency | Explainability |
 |---------------|------------|----------------|
 | Accuracy across tasks (forecasting, classification, anomaly detection) | Training/inference costs, tuning strategy | Can humans understand and trust predictions? |
 
 ---
 
-### 🧪 Time Series Tasks Handled:
+### Time Series Tasks Handled:
 - **Classification**
 - **Forecasting**
 - **Imputation**
@@ -61,14 +61,14 @@ This short story explores the 2024 survey paper by Ye et al., which analyzes how
 
 ---
 
-### 🧰 Techniques & Tools:
+### Techniques & Tools:
 - **Data Augmentation:** jittering, cropping, patching
 - **Architectures:** Transformer (Encoder/Decoder/Hybrid)
 - **Tuning Strategies:** Full Fine-Tuning, LoRA, Adapters, Prompt Tuning
 
 ---
 
-### 🌍 Real-World Domains:
+### Real-World Domains:
 - **Finance** (TDML, CIGN): Stock prediction + metadata
 - **Healthcare** (METS, LLMF): ECG + Clinical reports
 - **Traffic** (LLMST, AuxMobLCast): Human mobility patterns
@@ -76,7 +76,7 @@ This short story explores the 2024 survey paper by Ye et al., which analyzes how
 
 ---
 
-### ⚠️ Research Gaps:
+###  Research Gaps:
 - Lack of ImageNet-scale time series datasets
 - Weak cross-domain generalization
 - Limited multimodal modeling (text + time + graph)
@@ -85,14 +85,14 @@ This short story explores the 2024 survey paper by Ye et al., which analyzes how
 ---
 
 
-## 🧾 Citation
+## Citation
 
 > Ye, Jiexia, et al. "A Survey of Time Series Foundation Models." arXiv preprint arXiv:2405.02358 (2024).  
 > [arxiv.org/abs/2405.02358](https://arxiv.org/abs/2405.02358)
 
 ---
 
-## 🙌 Acknowledgments
+## Acknowledgments
 
 - Special thanks to **Prof. Vijay Eranti / Samarth Sharma** for the guidance  
 - Visual assets created with [DALL·E + PPT]  
@@ -102,7 +102,7 @@ This short story explores the 2024 survey paper by Ye et al., which analyzes how
 
 ---
 
-## 📌 How to Reproduce or Extend
+## How to Reproduce or Extend
 
 If you have come across relevant resources, feel free to open an issue or submit a pull request.
 
